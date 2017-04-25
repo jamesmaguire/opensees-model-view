@@ -16,9 +16,9 @@ At this stage, the project is best suited to structural models using elements th
 
 ![Example usage gif](https://cloud.githubusercontent.com/assets/22332883/25312657/25d0a1d4-2873-11e7-82f8-ac6cb2522550.gif)
 
-![Example 2D model](https://cloud.githubusercontent.com/assets/22332883/25365954/6983dfa6-29c0-11e7-8d72-615aad79d4e2.png)
-
-![Example 3D model](https://cloud.githubusercontent.com/assets/22332883/25365961/754aeb7c-29c0-11e7-97c9-3e3881de5056.png)
+2D model example | 3D model example
+:---------:|:---------:
+![2D example](https://cloud.githubusercontent.com/assets/22332883/25365954/6983dfa6-29c0-11e7-8d72-615aad79d4e2.png) | ![3D example](https://cloud.githubusercontent.com/assets/22332883/25365961/754aeb7c-29c0-11e7-97c9-3e3881de5056.png)
 
 ### Dependencies
 
